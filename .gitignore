@@ -1,0 +1,17 @@
+# Arduino / build output
+build/
+*.elf
+*.hex
+*.eep
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.code-workspace
